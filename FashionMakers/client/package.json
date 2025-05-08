@@ -1,0 +1,21 @@
+{
+  "name": "darshanik-apparels-website",
+  "version": "1.0.0",
+  "description": "Darshanik Apparels - Static Landing Page for Netlify Deployment",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --outDir ../dist",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.453.0",
+    "react-hook-form": "^7.55.0",
+    "zod": "^3.24.2",
+    "@hookform/resolvers": "^3.10.0",
+    "tailwind-merge": "^2.6.0",
+    "framer-motion": "^11.13.1"
+  }
+}
